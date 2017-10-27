@@ -8,8 +8,8 @@ by [WK Jackson](http://wkjiv.com/ "WK Jackson")
 * nothing (twitter bootstrap v2.3.0 is included)
 ### Requires:
 
-From styletil.es
 ## Whats the big idea?
+From [styletil.es](http://styletil.es/ "Style Tiles")
 >Style Tiles are a design deliverable consisting of fonts, colorsand interface elements that communicate the essence of a visual brand for the web.
 
 >They help form a common visual language between the designers and the stakeholders and provide a catalyst for discussions around the preferences and goals of the client.
