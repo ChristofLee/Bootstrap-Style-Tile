@@ -5,8 +5,8 @@ by [WK Jackson](http://wkjiv.com/ "WK Jackson")
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/ "Twitter Bootstrap")
 * [Style Tiles](http://styletil.es/ "Style Tiles")
 
-* nothing (twitter bootstrap v2.3.0 is included)
 ### Requires:
+* Nothing (twitter bootstrap v2.3.0 is included)
 
 ## Whats the big idea?
 From [styletil.es](http://styletil.es/ "Style Tiles")
