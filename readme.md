@@ -1,15 +1,15 @@
-#Twitter Bootstrap Style Tile
+# Twitter Bootstrap Style Tile
 by [WK Jackson](http://wkjiv.com/ "WK Jackson")
 
-###Based on:
+### Based on:
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/ "Twitter Bootstrap")
 * [Style Tiles](http://styletil.es/ "Style Tiles")
 
-###Requires:
 * nothing (twitter bootstrap v2.3.0 is included)
+### Requires:
 
-##Whats the big idea?
 From styletil.es
+## Whats the big idea?
 >Style Tiles are a design deliverable consisting of fonts, colorsand interface elements that communicate the essence of a visual brand for the web.
 
 >They help form a common visual language between the designers and the stakeholders and provide a catalyst for discussions around the preferences and goals of the client.
